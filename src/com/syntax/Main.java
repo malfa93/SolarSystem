@@ -13,5 +13,9 @@ public class Main {
         Solana.Heat="4567kj";
         Solana.radius="83247202km";
         Solana.temp="49587c";
+
+        Planet2 platypus = new Planet2();
+        platypus.color="Pink";
+        platypus.size="3498234km";
     }
 }
