@@ -13,5 +13,9 @@ public class Main {
         Solana.Heat="4567kj";
         Solana.radius="83247202km";
         Solana.temp="49587c";
+
+        Planet1 narwhal = new Planet1();
+        narwhal.color="green";
+        narwhal.size="24342km";
     }
 }
