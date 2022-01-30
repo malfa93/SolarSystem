@@ -12,7 +12,7 @@ public class Main {
         SUN Solana = new SUN();
         Solana.Heat="4567kj";
         Solana.radius="83247202km";
-        Solana.temp="49587c";
+        Solana.temp=49587;
 
 
         Planet2 platypus = new Planet2();
