@@ -12,7 +12,7 @@ public class Main {
         SUN Solana = new SUN();
         Solana.Heat="4567kj";
         Solana.radius="83247202km";
-        Solana.temp="49587c";
+        Solana.temp=49587;
 
 
         Planet2 platypus = new Planet2();
@@ -25,9 +25,17 @@ public class Main {
 
 
 
+
         moon2 montero=new moon2();
         montero.color="red";
         montero.radius="4324234234";
-        montero.lightintensity="9348lunouns";
+
+        moon1 montero1 = new moon1();
+        montero1.color="blue";
+        montero1.radius="8349203";
+        montero1.lightIntensity="23892lumons";
+        
+
+
     }
 }
